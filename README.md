@@ -5,8 +5,7 @@
 
 </p>
  <p align="center">
-
-
+ <a href="https://l-0-l.tistory.com/"><img src="https://github-readme-tistory-card.vercel.app/api/badge?name=프잘백"></a>
 </p>
 
 <br>
@@ -15,7 +14,7 @@
 
 ### Programing Languages:
 
- ![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=test)
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
