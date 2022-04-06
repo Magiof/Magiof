@@ -21,12 +21,13 @@
 ### Tech:
 
 
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> %20 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 
-<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/> <img src="https://img.shields.io/badge/socketio-010101?style=for-the-badge&logo=socketio&logoColor=white"/>
+<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"/> %20 <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/> %20 <img src="https://img.shields.io/badge/socketio-010101?style=for-the-badge&logo=socketio&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/travisci-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/> %20 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/travisci-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/sequelize-orange?style=for-the-badge&logo=sequelize&logoColor=white"/>
 
