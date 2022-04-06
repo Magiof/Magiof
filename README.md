@@ -34,26 +34,13 @@
 ![FreecodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
 	 
 
-### Social Media:
- <p align="center">
-  <a href="https://www.instagram.com/viki_sam_/"><img src="https://img.icons8.com/fluency/50/000000/instagram-new.png"/><a/>
-  <a href="https://www.linkedin.com/in/vikash-pr-086b21193/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png"/><a/>
-  <a href="https://github.com/vikashpr"><img src="https://img.icons8.com/fluency/50/000000/github.png"/><a/>
-  <a href="https://twitter.com/Vikash11430482"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/><a/>
-  <a href="https://github.com/vikashpr"><img src="https://img.icons8.com/color/50/000000/discord--v2.png"/><a/>
-  <a href="https://stackoverflow.com/users/14201913/vikashpr"><img src="https://img.icons8.com/fluency/48/000000/stackoverflow.png"/><a/>
-  <a href="mailto:vikashrajendran2806@gmail.com?subject=Github profile Visit"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/><a/>
-</p>
 
-### VikashPR.com speed:
-
-<img width="46%" src="metrics/pagespeed-detailed.svg">   <img  width="46%" src="metrics/coding_habits.svg" alt="Vikash's Most used lang" />
 
 ### Github Stats:
 
-<img width="450em" src="https://github-profile-trophy.vercel.app/?username=vikashpr&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> |  <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikashpr&show_icons=true&locale=en&layout=compact&theme=radical" alt="Vikash's Most used lang" />
+<img width="450em" src="https://github-profile-trophy.vercel.app/?username=Magiof&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> |  <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Magiof&show_icons=true&locale=en&layout=compact&theme=radical" alt="seongwon's Most used lang" />
 :-------------------------:|:-------------------------:
-<img  width="450em"   src="https://github-readme-streak-stats.herokuapp.com/?user=vikashpr&theme=radical" alt="Vikash2806 Streak" /> | <img  width="450em" align="center" alt="vikash's Github stats"  src="https://github-readme-stats.vercel.app/api?username=vikashpr&show_icons=true&count_private=true&theme=radical" /> 
+<img  width="450em"   src="https://github-readme-streak-stats.herokuapp.com/?user=Magiof&theme=radical" alt="Vikash2806 Streak" /> | <img  width="450em" align="center" alt="seongwon's Github stats"  src="https://github-readme-stats.vercel.app/api?username=Magiof&show_icons=true&count_private=true&theme=radical" /> 
 
 
 
