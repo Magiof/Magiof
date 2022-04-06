@@ -23,7 +23,7 @@
 
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/travisci-orange?style=flat&logo=travisci&logoColor=3EAAAF"/>
+<img src="https://img.shields.io/badge/travisci-3EAAAF?style=for-the-badge&logo=travisci&logoColor=3EAAAF"/>
 
 
 	 
