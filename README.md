@@ -28,6 +28,10 @@
 
 
 
+
+
+
+
 ### Github Stats:
 
 <img width="450em" src="https://github-profile-trophy.vercel.app/?username=Magiof&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> |  <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Magiof&show_icons=true&locale=en&layout=compact&theme=radical" alt="seongwon's Most used lang" />
