@@ -21,7 +21,7 @@
 ### Tech:
 
 
-<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white"/>  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"/>  <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>  <img src="https://img.shields.io/badge/socketio-010101?style=for-the-badge&logo=socketio&logoColor=white"/>
