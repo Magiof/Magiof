@@ -1,51 +1,15 @@
-### <p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Vikash PR</p>
+### <p align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm seongwon</p>
 
 <p align="center"> 
-  <a href="https://github.com/vikashPR"><img src="https://typing-text-svg.herokuapp.com?font=&color=%23F7008F&lines=Student+%2F+Developer+%2F+Athlete+;%F0%9F%9A%80+Front-End+Developer;%F0%9F%96%A5+Active+OpenSource+Contributor"></a>
+  <a href="https://github.com/Magiof"><img src="https://typing-text-svg.herokuapp.com?font=&color=%23F7008F&lines=Hwang+seong+won+;%F0%9F%9A%80+Back-End+Developer;"></a>
 
 </p>
  <p align="center">
-  <a href="#"> <img src="assets/2.gif"><a/>
-  <a href="#"><img src="assets/8.gif"><a/>
-  <a href="#"><img src="assets/0.gif"><a/>
-  <a href="#"><img src="assets/6.gif"><a/>
 </p>
-	  
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-☞ 〔 ⚪️ 〕🎀 Pink is Sweet 🎀 | 🌹 Rose is red
-
-☞ 〔 🐵 〕 <a href="https://www.webilicious.in/">![Weblicious](https://img.shields.io/badge/Team-%40Webilicious-brightgreen)</a> <a href="https://www.srmist.edu.in">![SRMIST](https://img.shields.io/badge/Student-%40SRMIST-blue)</a>
-
-☞ 〔 🐼 〕Frot End DEV
-
-☞ 〔 🤾 〕18
-
-☞ 〔 <img height="18" width="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/> 〕Vue Simp
-
-☞ 〔 👀 〕![](https://komarev.com/ghpvc/?username=vikashpr&color=dc143c)
 
 <br>
 
-### aboutMe.Js:
 
-```javascript
-const VikashPR = {
-   pronouns: "he" | "him",
-   code: [HTML,JS,CSS,C/C++],
-   askMeAbout: ["Web Development","C/C++","Discord","IOT"],
-   technologies: {
-       frontEnd: {
-           Js: ["VueJs", "Vuetify"]
-       },
-       backEnd: {
-           BasS: ["firebase"]
-       },
-       competitive: {
-          compilerLang: ["C/C++"]
-   }
-};
-```
 
 ### Programing Languages:
 
