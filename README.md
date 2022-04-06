@@ -18,7 +18,7 @@
 
 <a href="#"><img width="450" align="right" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif"  /></a>
 
-### 🛠Tech:
+### 🛠Tech Stack:
 
 
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
