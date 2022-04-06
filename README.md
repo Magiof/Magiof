@@ -20,9 +20,10 @@
 
 ### Tech:
 
-<img src="https://img.shields.io/badge/travisci-green?style=flat&logo=travisci&logoColor=3EAAAF"/>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/travisci-orange?style=flat&logo=travisci&logoColor=3EAAAF"/>
 
 
 	 
