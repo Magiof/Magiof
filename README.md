@@ -5,7 +5,7 @@
 
 </p>
  <p align="center">
- <a href="https://l-0-l.tistory.com/"><img src="https://github-readme-tistory-card.vercel.app/api/badge?name=프잘백&center=true&vCenter=true"></a>
+ <a href="https://l-0-l.tistory.com/"><img src="https://github-readme-tistory-card.vercel.app/api/badge?name=프잘백"></a>
 </p>
 
 <br>
