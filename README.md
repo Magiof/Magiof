@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white"/>  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 
-<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"/>  <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>  <img src="https://img.shields.io/badge/socketdotio-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"/>  <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>  <img src="https://img.shields.io/badge/socketdotio-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/travisci-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white"/>
 
