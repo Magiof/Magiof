@@ -1,4 +1,4 @@
-### <p align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> I'm seongwon</p>
+### <p align="center">Hi! I'm seongwon</p>
 
 <p align="center"> 
   <a href="https://github.com/Magiof"><img src="https://typing-text-svg.herokuapp.com?font=&color=1E8CBE&center=true&vCenter=true&lines=Hwang+seong+won+;%F0%9F%9A%80+Junior+Back-End+Developer;"></a>
