@@ -1,11 +1,8 @@
 ### <p align="center">Hi! I'm seongwon</p>
 
-<p align="center"> 
-  <a href="https://github.com/Magiof"><img src="https://typing-text-svg.herokuapp.com?font=&color=1E8CBE&center=true&vCenter=true&lines=Hwang+seong+won+;%F0%9F%9A%80+Junior+Back-End+Developer;"></a>
-
 </p>
  <p align="center">
- <a href="https://l-0-l.tistory.com/"><img src="https://github-readme-tistory-card.vercel.app/api/badge?name=프잘백"></a>
+ <a href="https://l-0-l.tistory.com/"><img src="https://github-readme-tistory-card.vercel.app/api/badge?name=블로그바로가기"></a>
 </p>
 
 <br>
