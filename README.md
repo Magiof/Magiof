@@ -11,7 +11,6 @@
 
 
 
-
 <!--  GIf -->
 
 
@@ -33,10 +32,10 @@
 
 <img src="https://img.shields.io/badge/opensearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white"/> <img src="https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>
 
+##
 
 
-
-
+<br>
 
 
 
@@ -47,7 +46,8 @@
 <img  width="450em"   src="https://github-readme-streak-stats.herokuapp.com/?user=Magiof&theme=radical" alt="Vikash2806 Streak" /> | <img  width="450em" align="center" alt="seongwon's Github stats"  src="https://github-readme-stats.vercel.app/api?username=Magiof&show_icons=true&count_private=true&theme=radical" /> 
 
 
-
+##
+<br>
 
 ### 🥇Github contribution:
 	  
