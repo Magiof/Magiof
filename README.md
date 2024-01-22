@@ -3,7 +3,7 @@
 
 </p>
  <p align="center">
- <a href="https://l-0-l.tistory.com/"><img src="https://github-readme-tistory-card.vercel.app/api/badge?name=블로그바로가기"></a>
+
 </p>
 
 <br>
