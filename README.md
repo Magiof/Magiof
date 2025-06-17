@@ -1,4 +1,4 @@
-### <p align="center">Back-end software developer</p>
+### <p align="center">software developer</p>
 ## <p align="center">Hwang seongwon</p>
 
 </p>
