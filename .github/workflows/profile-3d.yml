@@ -1,7 +1,7 @@
 # 3D contribution SVGs — upstream: https://github.com/yoshi389111/github-profile-3d-contrib
 # Uses v0.9.2 + small patch so the GraphQL range is 2022-01-01 → today (UTC) instead of ~1 year.
 # Private contributions: enable on https://github.com/settings/profile#contributions-setting
-# Optional PAT: Repo → Settings → Secrets and variables → Actions → New repository secret → name PROFILE_CONTRIB_PAT
+# Optional PAT (비공개 기여 GraphQL): 시크릿 이름 PROFILE_CONTRIB_PAT — 만료/오타/권한 부족이면 GraphQL이 user: null 을 돌려 스텝이 실패합니다. 그럴 땐 시크릿을 지우거나 아래 GITHUB_TOKEN 줄만 쓰세요.
 name: GitHub-Profile-3D-Contrib
 
 on:
@@ -42,13 +42,10 @@ jobs:
       - name: Generate SVGs into profile-3d-contrib/
         working-directory: ${{ github.workspace }}
         env:
-          # PAT for GraphQL (private contrib); if unset, default token is used
-          GITHUB_TOKEN: ${{ secrets.PROFILE_CONTRIB_PAT || secrets.GITHUB_TOKEN }}
-          # GraphQL user(login:) — must be a User account, not an org
-          USERNAME: Magiof
+          GITHUB_TOKEN: ${{ secrets.PROFILE_CONTRIB_PAT }}
           CONTRIBUTION_FROM: "2022-01-01T00:00:00.000Z"
           CONTRIBUTION_TO: ${{ steps.range.outputs.to }}
-        run: node /tmp/gh-profile-3d/dist/index.js
+        run: node /tmp/gh-profile-3d/dist/index.js "${{ github.repository_owner }}"
 
       - name: Commit and push
         run: |
