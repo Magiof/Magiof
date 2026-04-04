@@ -1,0 +1,28 @@
+# Regenerates SVGs in profile-3d-contrib/ (scheduled + manual). Uses the default GITHUB_TOKEN only.
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    # Every 2 hours so 3D graphs stay close to the latest contribution calendar
+    - cron: "0 */2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.5.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A .
+          git diff --staged --quiet || (git commit -m "chore: regenerate profile 3d contribution" && git push)
