@@ -48,12 +48,12 @@
 
 ### Snake contribution
 
-<sub>First time: run <strong>Actions → Generate snake → Run workflow</strong> so the <code>output</code> branch is created.</sub>
+<sub>SVGs live on <code>main</code> under <code>dist/</code>. Run <strong>Actions → Generate snake → Run workflow</strong> once if they are missing.</sub>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Magiof/Magiof/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Magiof/Magiof/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake contribution animation" src="https://raw.githubusercontent.com/Magiof/Magiof/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
+  <img alt="Snake contribution animation" src="dist/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 <br/>
