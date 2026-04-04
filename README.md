@@ -70,20 +70,22 @@ Portfolio: **[magiof.github.io](https://magiof.github.io)** · Email: **tjddnjs7
 
 ### GitHub metrics
 
+<sub>Official <code>github-readme-stats.vercel.app</code> is often rate-limited on profile pages; these cards use a compatible mirror (<a href="https://github.com/Pranesh-2005/github-readme-stats-fast">github-readme-stats-fast</a>). If a card still blank-fails, open the image URL once in a new tab.</sub>
+
 <table>
 <tr>
 <td width="50%" valign="top">
-<img width="100%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Magiof&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=3600" />
+<img width="100%" alt="GitHub stats" src="https://readme-stats-fast.vercel.app/api?username=Magiof&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 </td>
 <td width="50%" valign="top">
-<img width="100%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Magiof&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=3600" />
+<img width="100%" alt="Top languages" src="https://readme-stats-fast.vercel.app/api/top-langs?username=Magiof&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </td>
 </tr>
 </table>
 
-<img width="100%" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=Magiof&theme=tokyonight&hide_border=true" />
+<img width="100%" alt="Contribution streak" src="https://readme-stats-fast.vercel.app/api/streak?username=Magiof&theme=tokyonight&hide_border=true" />
 
-<img width="100%" alt="Contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=Magiof&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
+<p align="center"><sub>Contribution timeline graph: <a href="https://github.com/Magiof?tab=repositories&q=&sort=updated">recent repo activity</a> · <a href="https://github.com/Magiof">overview</a> (the old auto-graph CDN was too unreliable here).</sub></p>
 
 <br/>
 
