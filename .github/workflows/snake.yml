@@ -1,4 +1,5 @@
 # Generates SVG snake animations into dist/ and commits to main (no output branch).
+# Needs a successful run to replace placeholder SVGs — Actions → Generate snake.
 name: Generate snake
 
 on:
@@ -22,10 +23,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Hwang+Seongwon+%28%ED%99%A9%EC%84%B1%EC%9B%90%29;Backend+%E2%80%A2+TypeScript+%E2%80%A2+APIs+%E2%80%A2+NLP;Seoul+%E2%80%A2+Building+tools+%26+services" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=680&lines=Hwang+Seongwon+%28%ED%99%A9%EC%84%B1%EC%9B%90%29;TypeScript+%E2%80%A2+Node+%E2%80%A2+tooling+%E2%80%A2+NLP+%E2%80%A2+data+systems;Seoul+%E2%80%A2+Libraries%2C+CLIs%2C+experiments%2C+shipping+real+things" alt="Typing introduction" />
 
 <br/>
 
@@ -10,13 +10,9 @@
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="" width="420" />
-
-<br/>
-
 ## About
 
-**Software engineer** in Seoul. I work mostly on **backend services** (Node.js / **NestJS**), **TypeScript**, REST/GraphQL-style APIs, and **data stores** (PostgreSQL, Redis, MongoDB). I also maintain a **Korean NLP** helper for Node (**mecab-sw**), small **Python** utilities, and **ORM / infra** experiments.
+**Software engineer** in Seoul. I build **backend and tooling** (Node.js / **NestJS**, CLIs, automation), **TypeScript** across services and libraries, **data-layer work** (PostgreSQL, Redis, MongoDB, ORMs like Prisma / TypeORM), and **language or NLP-adjacent** projects — I maintain **mecab-sw** (Korean morphological analysis for Node), ship **Python** utilities and Homebrew tools, run **benchmarks and infra experiments**, and keep a **personal site** and small product-style repos. The repos below span services, libraries, CLIs, benchmarks, and personal projects — a cross-section of what I maintain, not one narrow specialty.
 
 Portfolio: **[magiof.github.io](https://magiof.github.io)** · Email: **tjddnjs7559@gmail.com**
 
@@ -57,19 +53,18 @@ Portfolio: **[magiof.github.io](https://magiof.github.io)** · Email: **tjddnjs7
 
 ### Automation
 
-<sub>**Actions tab missing?** On a **fork**, open **Settings → Actions → General** and allow workflows, then run each workflow once manually. For a **3D graph that includes private activity**, enable “Include private contributions” in [profile settings](https://github.com/settings/profile#contributions-setting) or use a PAT as <code>GITHUB_TOKEN</code> in [profile-3d.yml](.github/workflows/profile-3d.yml) (see comment there).</sub>
+<sub>**Actions tab missing?** On a **fork**, open **Settings → Actions → General** and allow workflows, then run each workflow once manually. **3D graph stuck on old dates:** run **GitHub-Profile-3D-Contrib** manually, turn on “Include private contributions on my profile” in [profile settings](https://github.com/settings/profile#contributions-setting), and if needed point <code>GITHUB_TOKEN</code> in [profile-3d.yml](.github/workflows/profile-3d.yml) at a PAT secret (e.g. <code>PROFILE_CONTRIB_PAT</code>) so private activity can be counted.</sub>
 
 <br/>
 
 ### Snake contribution
 
-<sub>SVGs on <code>main</code> in <code>dist/</code>. Run **Actions → Generate snake** if files are missing.</sub>
+<sub>Generated into <code>dist/</code> by [**Platane/snk**](https://github.com/Platane/snk). If you only see a “run Actions” message, open **Actions → Generate snake** and run once (commits real SVGs). Images below use absolute URLs so they render reliably on the profile README.</sub>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
-  <img alt="Snake contribution animation" src="dist/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
+<p align="center">
+  <img alt="Snake (dark)" src="https://raw.githubusercontent.com/Magiof/Magiof/main/dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%" />
+  <img alt="Snake (light)" src="https://raw.githubusercontent.com/Magiof/Magiof/main/dist/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%" />
+</p>
 
 <br/>
 
@@ -94,8 +89,8 @@ Portfolio: **[magiof.github.io](https://magiof.github.io)** · Email: **tjddnjs7
 
 ### Contribution landscape
 
-<p><sub>Regenerated on a schedule with <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a> — run the workflow once if the graph looks outdated.</sub></p>
+<p><sub>Regenerated on a schedule with <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a>. If activity after a past date never appears, regenerate manually and check private-contribution settings / PAT (see Automation note above).</sub></p>
 
-<img alt="3D contribution graph" src="./profile-3d-contrib/profile-season-animate.svg" width="100%" />
+<img alt="3D contribution graph" src="https://raw.githubusercontent.com/Magiof/Magiof/main/profile-3d-contrib/profile-season-animate.svg" width="100%" />
 
 </div>
