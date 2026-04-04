@@ -93,6 +93,6 @@ Portfolio: **[magiof.github.io](https://magiof.github.io)** · Email: **tjddnjs7
 
 <p><sub>Regenerated on a schedule with <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a>. If activity after a past date never appears, regenerate manually and check private-contribution settings / PAT (see Automation note above).</sub></p>
 
-<img alt="3D contribution graph" src="https://raw.githubusercontent.com/Magiof/Magiof/main/profile-3d-contrib/profile-season-animate.svg" width="100%" />
+<img alt="3D contribution graph (gitblock)" src="https://raw.githubusercontent.com/Magiof/Magiof/main/profile-3d-contrib/profile-gitblock.svg" width="100%" />
 
 </div>

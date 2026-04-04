@@ -1,0 +1,22 @@
+diff --git a/src/github-graphql.ts b/src/github-graphql.ts
+index df50bf6..a142c16 100644
+--- a/src/github-graphql.ts
++++ b/src/github-graphql.ts
+@@ -85,9 +85,14 @@ export const fetchFirst = async (
+     userName: string,
+     year: number | null = null,
+ ): Promise<ResponseType> => {
+-    const yearArgs = year
+-        ? `(from:"${year}-01-01T00:00:00.000Z", to:"${year}-12-31T23:59:59.000Z")`
+-        : '';
++    const contribFrom = process.env.CONTRIBUTION_FROM?.trim();
++    const contribTo = process.env.CONTRIBUTION_TO?.trim();
++    const yearArgs =
++        contribFrom && contribTo
++            ? `(from:"${contribFrom}", to:"${contribTo}")`
++            : year
++              ? `(from:"${year}-01-01T00:00:00.000Z", to:"${year}-12-31T23:59:59.000Z")`
++              : '';
+     const headers = {
+         Authorization: `bearer ${token}`,
+     };

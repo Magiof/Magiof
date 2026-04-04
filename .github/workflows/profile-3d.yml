@@ -1,6 +1,6 @@
-# 3D contribution SVGs — https://github.com/yoshi389111/github-profile-3d-contrib
-# If the graph looks frozen (old dates), run this workflow manually and ensure
-# “Include private contributions on my profile” and/or a PAT with repo read (see env below).
+# 3D contribution SVGs — upstream: https://github.com/yoshi389111/github-profile-3d-contrib
+# Uses v0.9.2 + small patch so the GraphQL range is 2022-01-01 → today (UTC) instead of ~1 year.
+# Private activity: profile setting “Include private contributions” and/or PAT as GITHUB_TOKEN (see env).
 name: GitHub-Profile-3D-Contrib
 
 on:
@@ -21,12 +21,32 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v5
-      - uses: yoshi389111/github-profile-3d-contrib@v0.9.2
+
+      - name: End of contribution window (today UTC)
+        id: range
+        run: echo "to=$(date -u +'%Y-%m-%dT23:59:59.000Z')" >> "$GITHUB_OUTPUT"
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Build generator (v0.9.2 + range patch)
+        run: |
+          git clone --depth 1 --branch v0.9.2 https://github.com/yoshi389111/github-profile-3d-contrib.git /tmp/gh-profile-3d
+          patch -p1 -d /tmp/gh-profile-3d < "${GITHUB_WORKSPACE}/patches/github-profile-3d-contrib-v0.9.2-contribution-range.patch"
+          cd /tmp/gh-profile-3d
+          npm ci
+          npm run build
+
+      - name: Generate SVGs into profile-3d-contrib/
+        working-directory: ${{ github.workspace }}
         env:
-          # For private repos in the graph: create a fine-grained PAT (or classic with read:user, repo)
-          # save as e.g. PROFILE_CONTRIB_PAT, then swap the line below.
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          CONTRIBUTION_FROM: "2022-01-01T00:00:00.000Z"
+          CONTRIBUTION_TO: ${{ steps.range.outputs.to }}
+        run: node /tmp/gh-profile-3d/dist/index.js
+
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
